@@ -1,4 +1,4 @@
-package eventBuckets
+package eventBucket
 
 // StopPruning stops the background pruning goroutine
 func (fb *Bucket) StopPruning() {

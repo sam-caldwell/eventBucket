@@ -1,4 +1,4 @@
-package eventBuckets
+package eventBucket
 
 import (
 	"sync"

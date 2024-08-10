@@ -1,4 +1,4 @@
-package eventBuckets
+package eventBucket
 
 // EventRate - calculates the current failure rate based on the bucket size and time window
 func (fb *Bucket) EventRate() float64 {
